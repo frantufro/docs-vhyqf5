@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-1ukxt3.yoursingles.online/sitemap.xml
